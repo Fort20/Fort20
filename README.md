@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Fort20
+- 👀 I’m interested to much deeper in everything regarding Software Engineering
+- 🌱 I’m currently ALX student
+- 💞️ I’m looking to collaborate with anyone interested to build all levels of Software
+- 📫 You can reach me via email address : fort2020@gmail.com
